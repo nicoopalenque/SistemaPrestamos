@@ -1,0 +1,5 @@
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Release\ClasesBase.dll.config
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Release\ClasesBase.dll
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Release\ClasesBase.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Release\ClasesBase.dll
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Release\ClasesBase.pdb

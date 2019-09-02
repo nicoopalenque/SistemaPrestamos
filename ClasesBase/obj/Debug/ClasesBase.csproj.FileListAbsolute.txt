@@ -1,0 +1,53 @@
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Vega\Documents\Visual Studio 2010\Projects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Vega\Videos\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\ClasesBase\obj\Debug\ClasesBase.pdb

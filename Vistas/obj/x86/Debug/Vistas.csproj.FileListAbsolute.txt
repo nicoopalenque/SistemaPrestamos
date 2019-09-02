@@ -1,0 +1,181 @@
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_Clientes_Alta.resources
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+c:\users\vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Periodo_Alta.resources
+C:\Users\Vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Destino_Alta.resources
+C:\Users\Vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+C:\Users\Vega\documents\visual studio 2010\Projects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Periodo_Alta.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_Clientes_Alta.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Destino_Alta.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Gestion_Usuarios.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Usuario_Alta.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Usuarios.resources
+C:\Users\LPOO\Downloads\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp2\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestino.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+C:\Users\Vega\Videos\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+C:\Users\Vega\3D Objects\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\tp3\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe.config
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe.config
+D:\Laboratorio de Programación Orientada a Objetos I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_DetallePrestamo.resources
+D:\Facultad\LPOO I\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_DetallePrestamo.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe.config
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_DetallePrestamo.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+D:\Laboratorio de Programación Orientada a Objetos I\Backups\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe.config
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.exe
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.exe
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\Vistas.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.dll
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\bin\Debug\ClasesBase.pdb
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_DetallePrestamo.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPagos.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPagos.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_ListadoPrestamos.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Login.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_Principal.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\ClasesBase.Frm_GestionClientes.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionDestinos.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionPrestamos.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.Frm_GestionUsuarios.resources
+D:\Facultad\LPOO I\TPFinal\LPOOI_Grupo01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache

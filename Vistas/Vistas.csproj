@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9DD24890-EA4E-411E-A4A6-86891567FAA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_DetallePrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DetallePrestamo.Designer.cs">
+      <DependentUpon>Frm_DetallePrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_GestionPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GestionPagos.Designer.cs">
+      <DependentUpon>Frm_GestionPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ListadoPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ListadoPagos.Designer.cs">
+      <DependentUpon>Frm_ListadoPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ListadoPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ListadoPrestamos.Designer.cs">
+      <DependentUpon>Frm_ListadoPrestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Principal.Designer.cs">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_GestionClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GestionClientes.Designer.cs">
+      <DependentUpon>Frm_GestionClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_GestionDestinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GestionDestinos.Designer.cs">
+      <DependentUpon>Frm_GestionDestinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_GestionPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GestionPrestamos.Designer.cs">
+      <DependentUpon>Frm_GestionPrestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Frm_GestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GestionUsuarios.Designer.cs">
+      <DependentUpon>Frm_GestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Frm_DetallePrestamo.resx">
+      <DependentUpon>Frm_DetallePrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GestionPagos.resx">
+      <DependentUpon>Frm_GestionPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ListadoPagos.resx">
+      <DependentUpon>Frm_ListadoPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ListadoPrestamos.resx">
+      <DependentUpon>Frm_ListadoPrestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Principal.resx">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GestionClientes.resx">
+      <DependentUpon>Frm_GestionClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GestionDestinos.resx">
+      <DependentUpon>Frm_GestionDestinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GestionPrestamos.resx">
+      <DependentUpon>Frm_GestionPrestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GestionUsuarios.resx">
+      <DependentUpon>Frm_GestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesBase\ClasesBase.csproj">
+      <Project>{0ADF4553-1E0C-443F-8C33-0FFA12CDC996}</Project>
+      <Name>ClasesBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5b5dfb4d1889f079c24604428036f98c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
